@@ -25,7 +25,8 @@ sudo cp -r da-perfect-studios /var/www/html/
 ### 4. Set File Permissions
 ```bash
 sudo chown -R www-data:www-data /var/www/html/da-perfect-studios
-
+```
+```bash
 sudo chmod -R 755 /var/www/html/da-perfect-studios
 ```
 
